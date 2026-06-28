@@ -1,4 +1,3 @@
-Markdown
 # Integrative Bioinformatics & Machine Learning Pipeline
 
 Este repositório contém um pipeline de bioinformática ponta a ponta (*end-to-end*) focado na análise de dados transcriptómicos e na construção de modelos de Machine Learning (ML) para a predição de resposta terapêutica à imunoterapia. 
